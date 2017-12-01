@@ -11,25 +11,25 @@
     "navigationBarTextStyle": "black"
   },
   "tabBar": {
-    "selectedColor": "#3cc51f",
+    "selectedColor": "blue",
     "list": [
       {
         "pagePath": "pages/index/index",
         "text": "首页",
         "iconPath": "img/home_non.png",
-        "selectedIconPath": "img/home.png"
+        "selectedIconPath": "img/home_blue.png"
       },
       {
         "pagePath": "pages/add/add",
-        "text": "添加",
+        "text": "记录",
         "iconPath": "img/add_non.png",
-        "selectedIconPath": "img/add.png"
+        "selectedIconPath": "img/add_blue.png"
       },
       {
         "pagePath": "pages/member/member",
         "text": "我的",
         "iconPath": "img/user_non.png",
-        "selectedIconPath": "img/user.png"
+        "selectedIconPath": "img/user_blue.png"
       }
     ]
   }
